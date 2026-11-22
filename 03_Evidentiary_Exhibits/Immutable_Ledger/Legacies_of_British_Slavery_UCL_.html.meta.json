@@ -1,0 +1,11 @@
+{
+  "url": "https://www.ucl.ac.uk/lbs/",
+  "final_url": "https://www.ucl.ac.uk/lbs/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 20411,
+  "sha256": "e880fae1134f34e0741a6e450dda2a6190be7d72e1e832c289715c002aa3b5e2",
+  "captured_at": "2026-11-22T06:47:17.641539Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
