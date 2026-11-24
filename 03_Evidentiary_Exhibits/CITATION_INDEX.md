@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.bl.uk/ | `03_Evidentiary_Exhibits/Immutable_Ledger/British_Library.html` | `6447009194136ce0...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `6aee854cdecd81c5...` | PENDING_LEGAL_REVIEW
@@ -16,3 +16,12 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 - CIT-0012: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW
 - CIT-0013: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0014: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `341a243ee09b7f7b...` | PENDING_LEGAL_REVIEW
+- CIT-0015: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_browser.html` | `05c0f0a2c7e2533c...` | PENDING_LEGAL_REVIEW
+- CIT-0016: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `6ad74225955f1293...` | PENDING_LEGAL_REVIEW
+- CIT-0017: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_browser.html` | `1fa623f55bb6b01c...` | PENDING_LEGAL_REVIEW
+- CIT-0018: https://www.justia.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Justia_browser.html` | `12f4873a1de4ce37...` | PENDING_LEGAL_REVIEW
+- CIT-0019: https://www.loc.gov/classroom-materials/immigration/african/slavery/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Slavery_browser.html` | `6d1cee2f1b66ceed...` | PENDING_LEGAL_REVIEW
+- CIT-0020: https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UK_Parliament_-_slavery_abolition_browser.html` | `c79c11e6453d8e20...` | PENDING_LEGAL_REVIEW
+- CIT-0021: https://digitallibrary.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_Digital_Library_browser.html` | `82a3db0197cef4d3...` | PENDING_LEGAL_REVIEW
+- CIT-0022: https://www.ohchr.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_browser.html` | `62784eddfcfd6c58...` | PENDING_LEGAL_REVIEW
+- CIT-0023: https://data.worldbank.org/country/united-kingdom | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_UK_browser.html` | `69016866f7ca927c...` | PENDING_LEGAL_REVIEW
